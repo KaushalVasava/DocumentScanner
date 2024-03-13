@@ -1,4 +1,4 @@
-It is a Document scanner android app using ML Kit, Kotlin and Jetpack Compose.
+It is a Document scanner android app using ML Kit Scanner API, Kotlin and Jetpack Compose.
 
 # Tech Stack
 - Kotlin
